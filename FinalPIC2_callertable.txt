@@ -1,0 +1,13 @@
+main
+	__CC2DW
+		____DoICP
+	Mul_16X16_U
+	Div_16X16_U
+	word2double
+		NRM3232
+			RES032
+			SETFUN32
+			FIXSIGN32
+	Compare_Double
+interrupt
+	ATD_read
